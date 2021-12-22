@@ -1,3 +1,4 @@
+DISCONTINUED. FOR MORE RECENT CODE, PLEASE HAVE A LOOK AT : https://framagit.org/ericb/ocr-math
 
 
 ///////////////////////////////
